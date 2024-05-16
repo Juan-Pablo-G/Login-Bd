@@ -1,0 +1,73 @@
+C:\Users\Usuario\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Usuario\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Usuario\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Usuario\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Usuario\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Usuario\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Usuario\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Usuario\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fmrUnidades.resources
+C:\Users\Usuario\Downloads\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Usuario\Downloads\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Usuario\Downloads\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Usuario\Downloads\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Downloads\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fmrUnidades.resources
+C:\Users\Usuario\Downloads\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Usuario\Downloads\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmHardware.resources
+C:\Users\Usuario\Downloads\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Usuario\Downloads\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Usuario\Downloads\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Usuario\Downloads\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmSoftware.resources
+C:\Users\Juan\Desktop\herramiestas de programacion\Downloads\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Juan\Desktop\herramiestas de programacion\Downloads\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Juan\Desktop\herramiestas de programacion\Downloads\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Juan\Desktop\herramiestas de programacion\Downloads\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Juan\Desktop\herramiestas de programacion\Downloads\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fmrUnidades.resources
+C:\Users\Juan\Desktop\herramiestas de programacion\Downloads\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Juan\Desktop\herramiestas de programacion\Downloads\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmHardware.resources
+C:\Users\Juan\Desktop\herramiestas de programacion\Downloads\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmProcesos.resources
+C:\Users\Juan\Desktop\herramiestas de programacion\Downloads\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmSoftware.resources
+C:\Users\Juan\Desktop\herramiestas de programacion\Downloads\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Juan\Desktop\herramiestas de programacion\Downloads\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Juan\Desktop\herramiestas de programacion\Downloads\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Desktop\herramiestas de programacion\Downloads\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Juan\Desktop\herramiestas de programacion\Downloads\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Juan\Desktop\herramiestas de programacion\Downloads\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmArchivos.resources
+C:\Users\Juan\Desktop\herramiestas de programacion\utilidadSistemas\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Juan\Desktop\herramiestas de programacion\utilidadSistemas\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Juan\Desktop\herramiestas de programacion\utilidadSistemas\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Juan\Desktop\herramiestas de programacion\utilidadSistemas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Juan\Desktop\herramiestas de programacion\utilidadSistemas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fmrUnidades.resources
+C:\Users\Juan\Desktop\herramiestas de programacion\utilidadSistemas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Juan\Desktop\herramiestas de programacion\utilidadSistemas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmArchivos.resources
+C:\Users\Juan\Desktop\herramiestas de programacion\utilidadSistemas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmHardware.resources
+C:\Users\Juan\Desktop\herramiestas de programacion\utilidadSistemas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmProcesos.resources
+C:\Users\Juan\Desktop\herramiestas de programacion\utilidadSistemas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmSoftware.resources
+C:\Users\Juan\Desktop\herramiestas de programacion\utilidadSistemas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Juan\Desktop\herramiestas de programacion\utilidadSistemas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Juan\Desktop\herramiestas de programacion\utilidadSistemas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Desktop\herramiestas de programacion\utilidadSistemas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Juan\Desktop\herramiestas de programacion\utilidadSistemas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Juan\Desktop\herramiestas de programacion\utilidadSistemas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.IngresoUsuario.resources
+C:\Users\Juan\Desktop\herramiestas de programacion\utilidadSistemas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CrearUsuario.resources
+C:\Users\Juan\Desktop\herramiestas de programacion\LoginBaseDatos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Juan\Desktop\herramiestas de programacion\LoginBaseDatos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Juan\Desktop\herramiestas de programacion\LoginBaseDatos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Juan\Desktop\herramiestas de programacion\LoginBaseDatos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Juan\Desktop\herramiestas de programacion\LoginBaseDatos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fmrUnidades.resources
+C:\Users\Juan\Desktop\herramiestas de programacion\LoginBaseDatos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Juan\Desktop\herramiestas de programacion\LoginBaseDatos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmArchivos.resources
+C:\Users\Juan\Desktop\herramiestas de programacion\LoginBaseDatos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmHardware.resources
+C:\Users\Juan\Desktop\herramiestas de programacion\LoginBaseDatos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmProcesos.resources
+C:\Users\Juan\Desktop\herramiestas de programacion\LoginBaseDatos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmSoftware.resources
+C:\Users\Juan\Desktop\herramiestas de programacion\LoginBaseDatos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.IngresoUsuario.resources
+C:\Users\Juan\Desktop\herramiestas de programacion\LoginBaseDatos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Juan\Desktop\herramiestas de programacion\LoginBaseDatos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Juan\Desktop\herramiestas de programacion\LoginBaseDatos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Desktop\herramiestas de programacion\LoginBaseDatos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Juan\Desktop\herramiestas de programacion\LoginBaseDatos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

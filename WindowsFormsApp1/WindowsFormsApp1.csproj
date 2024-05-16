@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EC706F97-5F2B-4FC9-BC37-CE6FEADE051B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WindowsFormsApp1</RootNamespace>
+    <AssemblyName>WindowsFormsApp1</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DbInicioSesionDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DbInicioSesionDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="fmrUnidades.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmrUnidades.Designer.cs">
+      <DependentUpon>fmrUnidades.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmArchivos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmArchivos.Designer.cs">
+      <DependentUpon>frmArchivos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmHardware.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHardware.Designer.cs">
+      <DependentUpon>frmHardware.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmProcesos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmProcesos.Designer.cs">
+      <DependentUpon>frmProcesos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSoftware.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSoftware.Designer.cs">
+      <DependentUpon>frmSoftware.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IngresoUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IngresoUsuario.Designer.cs">
+      <DependentUpon>IngresoUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="fmrUnidades.resx">
+      <DependentUpon>fmrUnidades.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmArchivos.resx">
+      <DependentUpon>frmArchivos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHardware.resx">
+      <DependentUpon>frmHardware.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmProcesos.resx">
+      <DependentUpon>frmProcesos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSoftware.resx">
+      <DependentUpon>frmSoftware.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IngresoUsuario.resx">
+      <DependentUpon>IngresoUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="DbInicioSesionDataSet.xsc">
+      <DependentUpon>DbInicioSesionDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DbInicioSesionDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DbInicioSesionDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DbInicioSesionDataSet.xss">
+      <DependentUpon>DbInicioSesionDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
